@@ -1,5 +1,5 @@
 <?php
-	require_once '../common/includes/image-dir.php';
+	require_once 'includes/image-dir.php';
 ?>
 <!DOCTYPE html>
 <html> 
