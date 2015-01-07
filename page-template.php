@@ -4,6 +4,12 @@
 <!DOCTYPE html>
 <html> 
 <head>
+	<title> Re&#769;ka Szepesva&#769;ri Photography </title>
+	
+	<meta name="author" content="Reka Szepesvari">
+	<meta name="keywords" content="Reka Szepesvari, Photography, Portraits, Couples, Life, Reka Photography, Winter, Models">
+	<meta name="description" content="A collection of photography by Reka Szepesvari. Browse through portraits, couple photos, and life images.">
+	
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 	<script src="js/jquery-1.11.1.min.js"></script>
